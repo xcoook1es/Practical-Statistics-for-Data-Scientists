@@ -12,9 +12,6 @@ Reproduksi kode dan ringkasan teori dari buku **Practical Statistics for Data Sc
 | 2 | Data and Sampling Distributions | [`PracticalStatisticsChapter2_ID.ipynb`](PracticalStatisticsChapter2_ID.ipynb) |
 | 3 | Statistical Experiments and Significance Testing | [`PracticalStatisticsChapter3_ID.ipynb`](PracticalStatisticsChapter3_ID.ipynb) |
 | 4 | Regression and Prediction | [`PracticalStatisticsChapter4_ID.ipynb`](PracticalStatisticsChapter4_ID.ipynb) |
-| 5 | Classification | *menyusul* |
-| 6 | Statistical Machine Learning | *menyusul* |
-| 7 | Unsupervised Learning | *menyusul* |
 
 ---
 
